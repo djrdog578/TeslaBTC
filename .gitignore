@@ -1,0 +1,6 @@
+secrets.py
+Pipefile.lock
+Pipfile
+.vscode
+__pycache__
+Procfile
